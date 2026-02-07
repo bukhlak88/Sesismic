@@ -10,4 +10,4 @@
 
 Це не офіційний репозиторій команди, а спільнотний ресурс для учасників.  
 # Sesismic
-About Sesismic
+A privacy enabled blockchain for fintechs.
